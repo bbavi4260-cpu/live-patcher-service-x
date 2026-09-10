@@ -1,0 +1,4 @@
+2026-09-10T15:35:39.826+00:00 START v37_minimum_profile_response host=0.0.0.0 port=3000
+2026-09-10T15:36:17.286+00:00 id=1789054577273-ceed2c3f method=GET path=/live/ver.php status=200 body_len=0 response_len=367 note=clean source-first local version response
+2026-09-10T15:36:17.936+00:00 id=1789054577926-0c8fd0e8 method=GET path=/favicon.ico status=404 body_len=0 response_len=26 note=unknown route logged and rejected
+2026-09-10T15:36:49.092+00:00 id=1789054609087-0bfa6802 method=GET path=/aauth/ver.php status=404 body_len=0 response_len=26 note=unknown route logged and rejected
